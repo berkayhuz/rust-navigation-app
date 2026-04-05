@@ -1,0 +1,8 @@
+[package]
+name = "navigation_osm"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4"
+osmpbfreader = "0.19.1"
